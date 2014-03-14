@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "The Venus Project",
+  "description": "About the Venus Project.",
+  "version": "0.0.1",
+"homepage_url": "http://www.thevenusproject.com",
+  "browser_action": {
+    "default_icon": "icontvp.png",
+    "default_popup": "popup.html"
+  },
+    "chrome_url_overrides" : {
+        "newtab": "newtab/newtab.html"
+},
+  "permissions": [
+    "https://secure.flickr.com/",
+  "tabs",
+  "bookmarks",
+"activeTab",
+"alarms",
+"http://futuragora.pt:89/*"
+
+  ]
+}
+
