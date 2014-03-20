@@ -6,9 +6,16 @@
 This is a onfly guide of features and links that will integrate the TVP Chrome Plugin.
 
 
+=Extensive Features=
+
+* Links for all important pages related to TVP.
+
 = Details =
 
+
+
 Link to these main TVP locations:
+
   * thevenusproject.com (main site)
 
 About: 
@@ -50,10 +57,7 @@ Get involved:
   *  http://www.thevenusproject.com/get-involved/supporter
   *  http://www.thevenusproject.com/get-involved/volunteer
   *  http://www.thevenusproject.com/get-involved/mentor
-  *  http://www.thevenusproject.com/get-involved/current-projects
-
-
-
+  * http://www.thevenusproject.com/get-involved/current-projects
   * http://www.thevenusproject.com/extras/tvpeducation
 
 Social:
