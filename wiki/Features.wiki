@@ -5,9 +5,10 @@
 
 This is a onfly guide of features and links that will integrate the TVP Chrome Plugin.
 
+= Details =
+
+Quando se clika no icon do plugin vai aparecer um Menu. Esse menu vai conter os link que estão na pagina xx dentro de uma caixa em texto simples de cor azul. Quando se clika nesses links vai abrir uma nova tab com a pagina em causa.
 
 =Extensive Features=
 
 * Links for all important pages related to TVP.
-
-= Details =
