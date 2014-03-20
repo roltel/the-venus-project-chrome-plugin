@@ -12,21 +12,34 @@ Link to these main TVP locations:
   * thevenusproject.com (main site)
 
 About: 
-http://www.thevenusproject.com/about/the-venus-project
-http://www.thevenusproject.com/about/resource-based-economy
-http://www.thevenusproject.com/about/aims-and-proposals
-http://www.thevenusproject.com/about/research-center
-http://www.thevenusproject.com/about/tvp-magazine
+
+  *  http://www.thevenusproject.com/about/the-venus-project
+
+  *  http://www.thevenusproject.com/about/resource-based-economy
+
+  *  http://www.thevenusproject.com/about/aims-and-proposals
+
+  *  http://www.thevenusproject.com/about/research-center
+
+  *  http://www.thevenusproject.com/about/tvp-magazine
 
 Technology:
-http://www.thevenusproject.com/technology/city-systems
-http://www.thevenusproject.com/technology/cities-in-the-sea
-http://www.thevenusproject.com/technology/housing
-http://www.thevenusproject.com/technology/energy
-http://www.thevenusproject.com/technology/construction
-http://www.thevenusproject.com/technology/transportation
-http://www.thevenusproject.com/technology/space
-http://www.thevenusproject.com/technology/latest-technology
+
+  *  http://www.thevenusproject.com/technology/city-systems
+
+  *  http://www.thevenusproject.com/technology/cities-in-the-sea
+
+  *  http://www.thevenusproject.com/technology/housing
+
+  *  http://www.thevenusproject.com/technology/energy
+
+  *  http://www.thevenusproject.com/technology/construction
+
+  *  http://www.thevenusproject.com/technology/transportation
+
+  *  http://www.thevenusproject.com/technology/space
+
+  *  http://www.thevenusproject.com/technology/latest-technology
 
 
 
@@ -46,4 +59,3 @@ Get involved:
 Social:
   * (Main FB Page)
   * (Main twitter page)
-
