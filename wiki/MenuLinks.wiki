@@ -24,14 +24,16 @@ About:
 
 Technology:
 
-* http://www.thevenusproject.com/technology/city-systems
-* http://www.thevenusproject.com/technology/cities-in-the-sea
-* http://www.thevenusproject.com/technology/housing
-* http://www.thevenusproject.com/technology/energy
-* http://www.thevenusproject.com/technology/construction
-* http://www.thevenusproject.com/technology/transportation
-http://www.thevenusproject.com/technology/space
-http://www.thevenusproject.com/technology/latest-technology
+  * http://www.thevenusproject.com/technology/city-systems
+  * http://www.thevenusproject.com/technology/cities-in-the-sea
+  * http://www.thevenusproject.com/technology/housing
+  * http://www.thevenusproject.com/technology/energy
+  * http://www.thevenusproject.com/technology/construction
+  * http://www.thevenusproject.com/technology/transportation
+  * http://www.thevenusproject.com/technology/space
+  * http://www.thevenusproject.com/technology/latest-technology
+
+
 Get involved:
 
 http://www.thevenusproject.com/online-community/
