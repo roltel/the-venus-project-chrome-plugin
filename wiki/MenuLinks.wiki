@@ -12,11 +12,15 @@ thevenusproject.com (main site)
 
 About:
 
-* http://www.thevenusproject.com/about/the-venus-project
-* http://www.thevenusproject.com/about/resource-based-economy
-* http://www.thevenusproject.com/about/aims-and-proposals
-* http://www.thevenusproject.com/about/research-center
-* http://www.thevenusproject.com/about/tvp-magazine
+  * http://www.thevenusproject.com/about/the-venus-project
+
+  * http://www.thevenusproject.com/about/resource-based-economy
+
+  * http://www.thevenusproject.com/about/aims-and-proposals
+
+  * http://www.thevenusproject.com/about/research-center
+
+  * http://www.thevenusproject.com/about/tvp-magazine
 
 Technology:
 
