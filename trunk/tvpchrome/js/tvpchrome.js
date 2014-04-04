@@ -9,3 +9,8 @@ $(document).ready(function(){
     }
   })
 })
+
+$( "#chat" ).click(function() {
+  window.open($(this).attr('href'),'#TVP','width=400,height=500');
+	return false;
+})
