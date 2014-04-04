@@ -9,7 +9,7 @@ This is a guide of features and links that will integrate the TVP Chrome Plugin.
 
 Version 0.0.1: Simple TVP Foto Gallery.
 
-Version 0.0.2: Menu TVP with javascript e jquery.
+Version 0.0.2: Menu TVP with javascript and jquery.
 
 Version 0.0.3: Links updates, format and colors.
 
