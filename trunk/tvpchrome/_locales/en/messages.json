@@ -1,0 +1,13 @@
+{
+	  "extName": {
+	    "message": "The Venus Project",
+	    "description": "Names."
+	  },
+
+	  "extDesc": {
+		"message": "TVP Google Chrome Plugin"
+	 	},
+	  "extHome": {
+		"message": "http://thevenusproject.com"
+}
+}
