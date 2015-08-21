@@ -1,0 +1,31 @@
+# Introduction #
+
+This is a guide of features and links that will integrate the TVP Chrome Plugin.
+
+# Versions Updates #
+
+Version 0.0.1: Simple TVP Foto Gallery.
+
+Version 0.0.2: Menu TVP with javascript and jquery.
+
+Version 0.0.3: Links updates, format and colors.
+
+Version 0.0.4: Chat online, Multimedia and Dev areas.
+
+# Details #
+
+
+--- Design screen:
+> List group:
+> '<' simbol for next title followed by title
+> > followed by list of pages to visit, regarding that title
+
+--- Design Icons:
+
+> each list item will contain an icon(or image) followed by description and '>' symbol
+
+--- Design background image for the lists.
+
+--- Implement Plugin-update
+
+Reference: https://play.google.com/store/apps/details?id=com.app_tvp.layout
