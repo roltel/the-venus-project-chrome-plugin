@@ -1,16 +1,22 @@
-/* 
-The Venus Project Google Chrome Plugin
-*/
-
 <script src="js/prefixfree-1.0.7.js" type="text/javascript"></script>
 <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+
+<script src="js/jq/external/jquery/jquery.js">
+</script><script src="js/jq/jquery-ui.js"></script>
+<link href="jquery-ui.css" rel="stylesheet">
+<script type="text/javascript">
+    this.name = "MainWindow";
+</script>
+
+
 <style type="text/css">
 /*custom font for text*/
 @import url(http://fonts.googleapis.com/css?family=Nunito);
 /*CSS file for fontawesome - an iconfont we will be using. This CSS file imported contains the font-face declaration. More info: http://fortawesome.github.io/Font-Awesome/ */
 @import url(http://thecodeplayer.com/uploads/fonts/fontawesome/css/font-awesome.min.css);
 
-/*Basic reset*/
+
 * {margin: 0; padding: 0;}
 
 body {
@@ -78,79 +84,98 @@ body {
 
 </style>
 
+
 <div id="accordian">
-	<ul>
+	<ul  id="icons" class="ui-widget ui-helper-clearfix">
 		<li  class="active">
-			<h3><span class="icon-dashboard"></span>The Venus Project</h3>
+			<h3><span class="ui-icon ui-icon-carat-1-n"></span>The Venus Project</h3>
 			<ul>
-				<li><a href="http://www.thevenusproject.com/about/the-venus-project" target="_blank">About</a></li>
-				<li><a href="http://www.thevenusproject.com/about/resource-based-economy" target="_blank">Resource Based Economy</a></li>
-				<li><a href="http://www.thevenusproject.com/about/aims-and-proposals" target="_blank">Aims and Proposals</a></li>
-				<li><a href="http://www.thevenusproject.com/about/research-center" target="_blank">Research Center</a></li>
-				<li><a href="http://www.thevenusproject.com/about/jacque-fresco" target="_blank">Jacque Fresco</a></li>
-				<li><a href="http://www.thevenusproject.com/about/roxanne-meadows" target="_blank">Roxanne Meadows</a></li>
-				<li><a href="http://www.thevenusproject.com/about/tvp-magazine" target="_blank">The Venus Project Magazine</a></li>
-				<li><a href="http://www.thevenusproject.com/faq" target="_blank">FAQ</a></li>
+<li><a href="https://www.thevenusproject.com/the-venus-project/aims-and-proposals/" target="_blank">Aims and Proposals</a></li>
+	<li><a href="https://www.thevenusproject.com/the-venus-project/research-center/" target="_blank">Research Center</a></li>
+	<li><a href="https://www.thevenusproject.com/the-venus-project/jacque-fresco/" target="_blank">Jacque Fresco</a></li>
+				<li><a href="https://www.thevenusproject.com/the-venus-project/roxanne-meadows/" target="_blank">Roxanne Meadows</a></li>
+			
+	<li><a href="https://www.thevenusproject.com/the-venus-project/history/" target="_blank">History</a></li>
+		
 			</ul>
 		</li>
 		<!-- we will keep this LI open by default -->
 		<li>
-			<h3><span class="icon-tasks"></span>Technology</h3>
+			<h3><span class="xxx"></span>Resource Based Economy</h3>
 			<ul>
-				<li><a href="http://www.thevenusproject.com/technology/city-systems" target="_blank">City Systems</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/cities-in-the-sea" target="_blank">Cities in the Sea</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/housing" target="_blank">Housing</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/energy" target="_blank">Energy</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/construction" target="_blank">Construction</a></li>
-        <li><a href="http://www.thevenusproject.com/technology/transportation" target="_blank">Transportation</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/space" target="_blank">Space</a></li>
-				<li><a href="http://www.thevenusproject.com/technology/latest-technology" target="_blank">Latest Technology</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/" id="_blank">Resource Based Economy</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/technology/" id="_blank">Technology</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/technology/construction/" target="_blank">Construction</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/technology/transportation/" target="_blank">Transportation</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/technology/energy/" target="_blank">Energy</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/technology/space/" target="_blank">Space</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/human-factors/" target="_blank">Human Factors</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/human-factors/scientific-method/" target="_blank">Scientific Method</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/human-factors/values/" target="_blank">Values</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/human-factors/semantics-relevant-language/" target="_blank">Semantics</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/human-factors/functional-design/" target="_blank">Functional Design</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/environment/" target="_blank">Human Behavior</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/environment/circular-city/" target="_blank">Circular Cities</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/environment/total-enclosure-systems/" target="_blank">Total Enclosure Systems</a></li>
+<li><a href="https://www.thevenusproject.com/resource-based-economy/environment/cities-in-the-sea/" target="_blank">Cities in the Sea</a></li>
 			</ul>
 		</li>
 		<li>
-			<h3><span class="icon-calendar"></span>Get Involved</h3>
+			<h3><span class="ui-icon ui-icon-circle-triangle-w"></span>Learn More</h3>
 			<ul>
-				<li><a href="http://www.thevenusproject.com/online-community/" target="_blank">Online Community</a></li>
-				<li><a href="http://www.thevenusproject.com/get-involved/supporter" target="_blank">Supporter</a></li>
-				<li><a href="http://www.thevenusproject.com/get-involved/volunteer" target="_blank">Volunteer</a></li>
-				<li><a href="http://www.thevenusproject.com/get-involved/mentor" target="_blank">Mentor</a></li>
-				<li><a href="http://www.thevenusproject.com/get-involved/current-projects" target="_blank">Current Projects</a></li>
+				<li><a href="https://www.thevenusproject.com/learn-more/" target="_blank">Learn More</a></li>
+				<li><a href="https://www.thevenusproject.com/learn-more/recommended-books/" target="_blank">Recommended Books</a></li>
+				<li><a href="https://www.thevenusproject.com/learn-more/documentaries/" target="_blank">Documentaries</a></li>
+				<li><a href="https://www.thevenusproject.com/learn-more/the-future-and-beyond/" target="_blank">Future and Beyond</a></li>
+				<li><a href="https://www.thevenusproject.com/blog/" target="_blank">Blog</a></li>
+				<li><a href="http://www.thevenusproject.com/about/tvp-magazine" target="_blank">The Venus Project Magazine</a></li>
 				
 			</ul>
 		</li>
 		<li>
-			<h3><span class="icon-lightbulb"></span>Multimedia</h3>
+			<h3><span class="ui-icon ui-icon-circle-triangle-w"></span>Multimedia</h3>
 			<ul>
-				<li><a href="http://www.thevenusproject.com/index.php?option=com_content&view=article&id=6&tmpl=openurl" target="_blank">Viral Images</a></li>
-				<li><a href="http://youtu.be/KphWsnhZ4Ag" target="_blank">Paradise or Oblivion Youtube</a></li>
-				<li><a href="http://www.thevenusproject.com/extras/paradise-or-oblivion-documentary-download" target="_blank">Paradise or Oblivion Download</a></li>
-				<li><a href="http://www.thevenusproject.com/index.php?option=com_content&view=article&id=6&tmpl=openurl" target="_blank">Viral Images</a></li>				
-				<li><a href="http://www.thevenusproject.com/extras/brochures" target="_blank">Brochures</a></li>
-				<li><a href="http://www.thevenusproject.com/extras/posters" target="_blank">Posters</a></li>
-				<li><a href="http://www.thevenusproject.com/extras/flyers" target="_blank">Flyers</a></li>
+				<li><a href="https://www.youtube.com/watch?v=Yb5ivvcTvRQ" target="_blank">The Choice is Ours 2016 (youtube)</a></li>
+				<li><a href="http://youtu.be/KphWsnhZ4Ag" target="_blank">Paradise or Oblivion 2012 (youtube)</a></li>
+				<li><a href="https://www.youtube.com/watch?v=I1IXWnS6vwk" target="_blank">Future by Design 2006 (youtube)</a></li>
+			
+</ul>
+		</li>
+
+
+<h3><span class="xxx"></span>Volunteers</h3>
+			<ul>
+				<li><a href="https://www.thevenusproject.com/volunteers/" target="_blank">Volunteers</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/projects/" target="_blank">Projects</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/projects/classic-lectures-transcriptions/" target="_blank">Classic Lectures</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/projects/mentor-program/" target="_blank">Mentor Program</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/projects/web-development/" target="_blank">Web Development</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/linguistic-team-international/" target="_blank">Linguistic Team International</a></li>
+				<li><a href="https://www.thevenusproject.com/volunteers/tools/" target="_blank">Tools</a></li>
 			</ul>
 		</li>
-		<li>
-			<h3><span class="icon-heart"></span>Social</h3>
+<h3><span class="xxxx"></span>Social</h3>
 			<ul>
-				<li><a href="http://futuragora.pt:9090/?channels=help,tvp,futuragora&nick=tvpch...&uio=OD1mYWxzZSYxND1mYWxzZQ45" id="chat">#TVP (IRC Chat)</a></li>
-				<li><a href="http://www.youtube.com/user/thevenusprojectmedia" target="_blank">Youtube</a></li>
-				<li><a href="https://twitter.com/frescotweets" target="_blank">Twitter</a></li>
 				<li><a href="https://www.facebook.com/TheVenusProjectGlobal" target="_blank">Facebook</a></li>
 				<li><a href="https://plus.google.com/+thevenusproject/" target="_blank">Google+</a></li>
 				<li><a href="http://pinterest.com/thevenusproject/" target="_blank">Pintrest</a></li>
+				<li><a href="http://futuragora.pt:9090/?channels=futuragora&nick=tvp...&uio=OD1mYWxzZSYxND1mYWxzZQ45" id="chat">#thevenusproject (Chat)</a></li>
+				<li><a href="http://www.youtube.com/user/thevenusprojectmedia" target="_blank">Youtube</a></li>
+				<li><a href="https://twitter.com/frescotweets" target="_blank">Twitter</a></li>
 				<li><a href="http://www.thevenusproject.com/extras/teamspeak" target="_blank">Teamspeak</a></li>
 			</ul>
 		</li>
+
 		<li>
-			<h3><span class="icon-pencil"></span>Development</h3>
+			<h3><span class="www"></span>Development</h3>
 			<ul>
-				<li><a href="http://www.futuragora.pt/portfolio/the-venus-project-google-chrome-plugin/" target="_blank">Project Homepage</a></li>
-				<li><a href="https://chrome.google.com/webstore/detail/the-venus-project/ejpjignnjkfcmblnjmjdbhhlecmfkhjo" target="_blank">Chrome Store</a></li>
-				<li><a href="https://github.com/roltel/the-venus-project-chrome-plugin" target="_blank">Github</a></li>
-				     			  	<li><a href="http://wiki.futuragora.pt/en/" target="_blank">RBE-POD Wiki</a></li>
-        			<li><a href="http://opensenses.futuragora.pt" target="_blank">Open Senses</a></li>				
-        			<li><a href="http://www.futuragora.pt" target="_blank">Futuragora</a></li>
+				<li><a href="https://chrome.google.com/webstore/detail/the-venus-project/ejpjignnjkfcmblnjmjdbhhlecmfkhjo" target="_blank">TVP Chrome Plugin</a></li>
+				<li><a href="http://www.futuragora.pt/projetos/projecto-venus-the-venus-project/the-venus-project-google-chrome-plugin/" target="_blank">Project Homepage</a></li>
+				<li><a href="https://github.com/roltel/the-venus-project-chrome-plugin" target="_blank">Git</a></li>
+			        <li><a href="http://www.futuragora.pt/wiki" target="_blank">RBE Wiki</a></li>
+				<li><a href="http://www.futuragora.pt/chatbots/venus.php" id="tvp">Assistant</a></li>	
+ 				<li><a href="http://www.futuragora.pt/futurai" target="_blank">FuturAI</a></li>				
+				<li><a href="http://www.futuragora.pt" target="_blank">By Futuragora</a></li>
 			</ul>
 		</li>
 	</ul>

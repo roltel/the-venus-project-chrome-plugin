@@ -1,11 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "__MSG_extName__",
-  "description": "__MSG_extDesc__",
-  "version": "0.0.5",
-  "homepage_url": "http://thevenusproject.com",
-  "default_locale": "en",
-
+  "name": "The Venus Project",
+  "description": "About the Venus Project.",
+  "version": "0.0.6",
+  "homepage_url": "http://www.thevenusproject.com",
   "browser_action": {
     "default_icon": "icontvp.png",
     "default_popup": "menu.html"
@@ -21,6 +19,6 @@
   "bookmarks",
   "activeTab",
   "alarms",
-  "http://futuragora.pt/*"
+  "http://futuragora.pt:89/*"
   ]
 }
