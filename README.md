@@ -19,3 +19,9 @@ New features:
 Actual Version: 0.0.7
 
 
+#Versions Updates
+Version 0.0.4: Chat online, Multimedia and Dev areas. (discontinued)
+Version 0.0.3: Links updates, format and colors. (discontinued)
+Version 0.0.2: Menu TVP with javascript and jquery. (discontinued)
+Version 0.0.1: Simple TVP Foto Gallery. (discontinued)
+
